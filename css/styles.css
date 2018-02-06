@@ -1,0 +1,9 @@
+body {
+	background: #000;
+	margin: 0;
+}
+
+.fireworks {
+	cursor: crosshair;
+	display: block;
+}
